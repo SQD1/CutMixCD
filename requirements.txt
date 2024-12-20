@@ -1,0 +1,8 @@
+einops==0.8.0
+numpy==1.24.3
+opencv_python==4.8.0.76
+Pillow==9.3.0
+torch==1.7.1
+torchnet==0.0.4
+torchvision==0.8.2
+tqdm==4.65.0

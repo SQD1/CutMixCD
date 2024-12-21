@@ -1,6 +1,6 @@
 # CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency
 
-This repocitory contains the official implementation of our paper:  **CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency**.
+This repocitory contains the official implementation of our [`paper`](https://doi.org/10.1109/TGRS.2024.3520630): **CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency**.
 
 <img width="1179" alt="image" src="https://github.com/user-attachments/assets/717388c3-c9b3-4659-a5b7-ba29cc6c47de" />
 
@@ -49,6 +49,12 @@ Evaluation metrics are saved in the file `test.log` saved in `--log`.
 If you find this repo useful for your research, please consider citing the paper as follows:
 
 ```
+@ARTICLE{10810476,
+  author={Shu, Qidi and Zhu, Xiaolin and Wan, Luoma and Zhao, Shuheng and Liu, Denghong and Peng, Longkang and Chen, Xiaobei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency}, 
+  year={2024},
+  doi={10.1109/TGRS.2024.3520630}}
 ```
 #### Acknowledgements
 Thanks to the following open source efforts:
